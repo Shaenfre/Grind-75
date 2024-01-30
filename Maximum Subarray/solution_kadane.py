@@ -2,7 +2,7 @@
 time complexity O(n)
 space complexity O(1)
 
-to do: implement in dp way
+to do: implement in dp and divide and conquer way
 '''
 
 class Solution:
