@@ -1,6 +1,7 @@
 '''
 Time complexity O(n!)
 Space complexity O(n)
+TODO: NQueens2
 '''
 class Solution:
     def solveNQueens(self, N: int) -> List[List[str]]:
